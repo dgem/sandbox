@@ -1,0 +1,14 @@
+
+
+GIT Repository Setup
+
+git config --global user.name "name"
+git config --global user.email somemail@somwhere.com
+mkdir Sandbox
+cd Sandbox
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git@github.com:dgem/Sandbox.git
+git push -u origin master

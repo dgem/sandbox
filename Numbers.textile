@@ -1,0 +1,22 @@
+h1. Number Puzzle
+
+Take a number and give the equivalent number in British English words, without using a tokenizer, or any external libraries, clever regex’s or the like.
+For example:
+* 1 = one
+* 27 = twenty seven
+* 115 = one hundred and fifteen
+* 56945781 = fifty six million nine hundred and forty five thousand seven hundred and eighty one
+* 126000010 = one hundred and twenty six million and ten
+* etc.. 
+* up to 999999999
+
+h2. Additional Info
+
+As a pointer on what we're looking for:
+
+* Clear separation of concerns & general good OO practices
+* Well defined objects / interfaces
+* Application of patterns to solve the problem
+* Testing and CI considerations
+
+_don't spend too much time on this, it is meant to be a quick test_

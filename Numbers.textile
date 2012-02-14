@@ -5,10 +5,11 @@ For example:
 * 1 = one
 * 27 = twenty seven
 * 115 = one hundred and fifteen
+* 3700 = three thousand seven hundred
 * 56945781 = fifty six million nine hundred and forty five thousand seven hundred and eighty one
 * 126000010 = one hundred and twenty six million and ten
 * etc.. 
-* up to 999999999
+* up to 999999999 = nine hundred and ninety nine million nine hundred and ninety nine thousand nine hundred and ninety nine... I think ;)
 
 h2. Additional Info
 
@@ -19,4 +20,4 @@ As a pointer on what we're looking for:
 * Application of patterns to solve the problem
 * Testing and CI considerations
 
-_don't spend too much time on this, it is meant to be a quick test_
+_don't spend days on this, it is meant to be a quick test... but it is important_
